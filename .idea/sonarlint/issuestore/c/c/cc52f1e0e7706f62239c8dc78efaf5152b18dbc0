@@ -1,0 +1,7 @@
+
+_kotlin:S6615";Remove this variable, which is assigned but never accessed.(ß‡¸ÿÿÿÿÿ8µÈŒå1
+Zkotlin:S6615";Remove this variable, which is assigned but never accessed.(–Öº­8Áíçå1
+Jkotlin:S6615"&The value assigned here is never used.(€ËŞÙıÿÿÿÿ8µÈŒå1
+Ekotlin:S6615"&The value assigned here is never used.(ú¬Ñ¬8Áíçå1
+Kkotlin:S1481",Remove this unused "number3" local variable.(’ÎúŸ8ùĞå1
+Pkotlin:S1481",Remove this unused "number2" local variable.(Á¸œõûÿÿÿÿ8öæâå1
