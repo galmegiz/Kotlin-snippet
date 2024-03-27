@@ -1,8 +1,5 @@
 package basic.section4
 
-import section4.Person as Person1
-
-
 typealias FruitFilter = (Fruit) -> Boolean
 typealias USGTMap = Map<String, UltraSuperGuardianTribe>
 
@@ -33,7 +30,7 @@ fun main() {
 
     }
 
-    val person = Person1("선", 100)
+    val person = Person("선", 100)
     val (name, age) = person // 구조분해 문법은 compontN을 호출하는 것이다
     val name1 = person.component1()
     val age2 = person.component2()
